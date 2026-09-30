@@ -1,7 +1,7 @@
 const translations = {
   en: {
     skip: "Skip to content",
-    navHome: "Home",
+    navHome: "About",
     navPublications: "Publications",
     navThoughts: "Thoughts",
     bioOne: "I am an AI researcher based in Shanghai.",
@@ -15,13 +15,13 @@ const translations = {
     pageDescription: "Yuxuan Fu is an AI researcher working on agents and reinforcement learning.",
     navigationLabel: "Primary navigation",
     languageLabel: "Language selection",
-    homeLabel: "Yuxuan Fu — Home",
+    homeLabel: "Yuxuan Fu — About",
     aboutLabel: "About Yuxuan Fu",
     portraitAlt: "Portrait image selected by Yuxuan Fu",
   },
   zh: {
     skip: "跳至正文",
-    navHome: "首页",
+    navHome: "关于",
     navPublications: "发表成果",
     navThoughts: "随笔",
     bioOne: "我是一名常驻上海的人工智能研究者。",
@@ -34,7 +34,7 @@ const translations = {
     pageDescription: "Yuxuan Fu 的个人主页，研究方向包括智能体与强化学习。",
     navigationLabel: "主导航",
     languageLabel: "语言选择",
-    homeLabel: "Yuxuan Fu — 首页",
+    homeLabel: "Yuxuan Fu — 关于",
     aboutLabel: "关于 Yuxuan Fu",
     portraitAlt: "Yuxuan Fu 选用的个人图片",
   },
