@@ -4,7 +4,7 @@ const translations = {
     navHome: "Home",
     navPublications: "Publications",
     navThoughts: "Thoughts",
-    bioOne: "I am an AI researcher at Shanghai University of Engineering Science.",
+    bioOne: "I am an AI researcher based in Shanghai.",
     bioTwo: "My research interests include agents and reinforcement learning.",
     bioThree:
       "My recent work explores proactive agents, robust learning under label noise, and AI for healthcare.",
@@ -24,7 +24,7 @@ const translations = {
     navHome: "首页",
     navPublications: "发表成果",
     navThoughts: "随笔",
-    bioOne: "我是一名来自上海工程技术大学的人工智能研究者。",
+    bioOne: "我是一名常驻上海的人工智能研究者。",
     bioTwo: "我的研究方向包括智能体与强化学习。",
     bioThree: "我近期的工作聚焦于主动式智能体、标签噪声下的鲁棒学习，以及医疗人工智能。",
     scholar: "谷歌学术",
